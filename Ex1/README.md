@@ -1,3 +1,3 @@
-# Ex 2 - OUTPUT
+# Ex 1 - OUTPUT
 
-![ex2 picture](../img/Ex1.png)
+![ex1 picture](../img/Ex1.png)
